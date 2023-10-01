@@ -29,6 +29,6 @@ ___
 
 <div align="center">
   
-  ![](https://count.getloli.com/get/@jakquellyn?theme=rule34)
+  ![](https://count.getloli.com/get/@jakquellyn?theme=gelbooru.com)
   
 </div>
