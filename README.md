@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Html-black?style=flat-square&logo=html" />
+  <img src="https://img.shields.io/badge/-Whatsapp-black?style=flat-square&logo=whatsApp" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-Css-black?style=flat-square&logo=css" /> <br>
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </div>
 
 <div align="center">
